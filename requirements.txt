@@ -3,3 +3,10 @@ langgraph
 langchain_core
 langchain_community
 ipykernel
+python-dotenv
+langchain_groq
+pydantic
+langchain-tavily
+arxiv == 1.4.8
+wikipedia
+tavily-python
